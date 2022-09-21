@@ -12,4 +12,4 @@ With 3D-printing becoming more prevalent, there is an increase in 3D printed pla
 
 # Machine Features
 
-<img src="/Images/Machine Features.jpg" alt="Alt text" title="Optional title">
+<img src="/Images/Machine Features.png" alt="Alt text" title="Optional title">
