@@ -9,3 +9,7 @@ With 3D-printing becoming more prevalent, there is an increase in 3D printed pla
 # WasteNOT Prototype
 
 <img src="/Images/Diagonal view of machine.jpg" alt="Alt text" title="Optional title">
+
+# Machine Features
+
+<img src="/Images/Machine Features.jpg" alt="Alt text" title="Optional title">
