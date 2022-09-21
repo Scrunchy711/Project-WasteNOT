@@ -6,10 +6,12 @@ With 3D-printing becoming more prevalent, there is an increase in 3D printed pla
 
 <img src="/Images/Header 2.png" alt="Alt text" title="Optional title">
 
+# Machine Features
+
+<img src="/Images/Machine Features.png" alt="Alt text" title="Optional title">
+
 # WasteNOT Prototype
 
 <img src="/Images/Diagonal view of machine.jpg" alt="Alt text" title="Optional title">
 
-# Machine Features
 
-<img src="/Images/Machine Features.png" alt="Alt text" title="Optional title">
